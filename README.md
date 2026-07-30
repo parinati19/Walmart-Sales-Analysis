@@ -97,61 +97,61 @@ Aspiring Data Analyst
 
 ### 📈 Average Sales: Holiday vs Non-Holiday
 
-![Average Sales Holiday vs Non Holiday](images/Average Sales Holiday vs Non Holiday.png)
+![Average Sales Holiday vs Non Holiday](images/Average_Sales_Holiday_vs_Non_Holiday.png)
 
 ---
 
 ### 📦 Weekly Sales Distribution (Box Plot)
 
-![Box Plot Of Weekly Sales](images/Box plot of Weekly Sales.png)
+![Box Plot Of Weekly Sales](images/Box_plot_of_Weekly_Sales.png)
 
 ---
 
 ### 🔥 Correlation Heatmap
 
-![Correlation Heatmap](images/Correlation Heatmap.png)
+![Correlation Heatmap](images/Correlation_Heatmap.png)
 
 ---
 
 ### 📊 CPI vs Weekly Sales
 
-![CPI vs Weekly Sales](images/CPI vs Weekly Sales.png)
+![CPI vs Weekly Sales](images/CPI_vs_Weekly_Sales.png)
 
 ---
 
 ### ⛽ Fuel Price vs Weekly Sales
 
-![Fuel Price vs Weekly Sales](images/Fuel Price vs Weekly Sales.png)
+![Fuel Price vs Weekly Sales](images/Fuel_Price_vs_Weekly_Sales.png)
 
 ---
 
 ### 📅 Monthly Sales Trend
 
-![Monthly Sales Trend](images/Monthly Sales Trend.png)
+![Monthly Sales Trend](images/Monthly_Sales_Trend.png)
 
 ---
 
 ### 🌡️ Temperature vs Weekly Sales
 
-![Temperature vs Weekly Sales](images/Temprature vs Weekly Sales.png)
+![Temperature vs Weekly Sales](images/Temprature_vs_Weekly_Sales.png)
 
 ---
 
 ### 🏆 Top 10 Walmart Stores by Total Sales
 
-![Top 10 Walmart Stores by Total Sales](images/Top 10 Walmart Stores by Total Sales.png)
+![Top 10 Walmart Stores by Total Sales](images/Top_10_Walmart_Stores_by_Total_Sales.png)
 
 ---
 
 ### 👥 Unemployment vs Weekly Sales
 
-![Unemployment vs Weekly Sales](images/Unemployment vs Weekly Sales.png)
+![Unemployment vs Weekly Sales](images/Unemployment_vs_Weekly_Sales.png)
 
 ---
 
 ### 📆 Year-wise Total Sales
 
-![Year-wise Total Sales](images/Year-wise Total Sales.png)
+![Year-wise Total Sales](images/Year_wise_Total_Sales.png)
 
 ## 📈 Business Insights
 
@@ -161,9 +161,7 @@ Aspiring Data Analyst
 - Fuel Price, CPI, Temperature, and Unemployment show only a weak relationship with Weekly Sales.
 - The analysis helps identify sales patterns and supports data-driven business decisions.
 
-# Test
 
-![Test](images/Top%2010%20Walmart%20Stores%20by%20Total%20Sales.png)
 
 
 
