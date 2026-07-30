@@ -161,7 +161,9 @@ Aspiring Data Analyst
 - Fuel Price, CPI, Temperature, and Unemployment show only a weak relationship with Weekly Sales.
 - The analysis helps identify sales patterns and supports data-driven business decisions.
 
+# Test
 
+![Test](images/Top%2010%20Walmart%20Stores%20by%20Total%20Sales.png)
 
 
 
