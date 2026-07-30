@@ -153,6 +153,14 @@ Aspiring Data Analyst
 
 ![Year-wise Total Sales](images/Year-wise Total Sales.png)
 
+## 📈 Business Insights
+
+- Holiday weeks generally generate higher sales than non-holiday weeks.
+- Store 20 is among the highest-performing stores.
+- Sales follow noticeable monthly and yearly trends.
+- Fuel Price, CPI, Temperature, and Unemployment show only a weak relationship with Weekly Sales.
+- The analysis helps identify sales patterns and supports data-driven business decisions.
+
 
 
 
