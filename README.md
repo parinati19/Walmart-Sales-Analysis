@@ -92,3 +92,52 @@ The project demonstrates data cleaning, visualization, and business analysis usi
 **Parinati Diwan**
 
 Aspiring Data Analyst
+## 📷 Project Visualizations
+
+### Average Sales Holidxay vs Non Holiday
+
+![Average Sales ](images/Average Sales Holiday vs Non Holiday.png)
+
+### Weekly Sales
+![Box Plot Of Weekly Sales](images/Box plot of Weekly Sales.png)
+
+### Correlation
+![Correlation Heatmap](images/Correlation Heatmap.png)
+
+### CPI vs Weekly Sales
+![CPI vs Weekly Sales](images/CPI vs Weekly Sales.png)
+
+### Fuel Price vs Weekly Sales
+![Fuel Price vs Weekly Sales](images/Fuel Price vs Weekly Sales.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](images/Monthly Sales Trend.png)
+
+### Temprature vs Weekly Sales
+![Temprature vs Weekly Sales](images/Temprature vs Weekly Sales.png)
+
+### Top 10 Walmart Stores by Total Sales
+![Top 10 Stores](images/Top 10 Walmart Stores by Total Sales.png)
+
+### Unemployment vs Weekly Sales
+![Unemployment vs Weekly Sales](images/Unemployment vs Weekly Sales.png)
+
+### Year-Wise Total Sales
+![Year-Wise Total Sales](images/Year-Wise Total Sales.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
